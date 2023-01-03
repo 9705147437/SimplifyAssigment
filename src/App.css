@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+.main{
+  background-color: rgb(66, 60, 54);
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+}
+.rt1{
+  background-color: #ec532f;
+  width: 30%;
+  height: 8%;
+  margin-left: 40%;
+  margin-top: 15%;
+  transform: rotate(45deg);
+}
+.rt2{
+  background-color: #BAB5B2;
+  width: 30%;
+  height: 8%;
+  margin-left: 40%;
+  margin-top: 15%;
+  transform: rotate(135deg);
+}
+.rt3{
+  background-color: #009fe3;
+  width: 30%;
+  height: 8%;
+  margin-left: 18%;
+  transform: rotate(45deg);
+}
+.rt4{
+  background-color: #8ECAAE;
+  width: 30%;
+  height: 8%;
+  margin-top: -26.2%;
+  margin-left: 21.5%;
+  transform: rotate(135deg);
+}
+.ptext{
+  justify-content: center;
+  align-items: center;
+  margin-left: 36%;
+  margin-top: 5%;
+  font-size: 2.5rem;
+  color: #fff;
+}
+span{
+  color: #ec532f;
+}
+p{
+  color: #fff;
+  font-size: 2rem;
+  margin-left: 1rem;
+}
+/* .rt3{
+  background-color: #009fe3;
+  width: 30%;
+  height: 8%;
+  margin-left: 22%;
+  margin-top: -4%;
+  position: relative;
+  transform: rotate(-135deg);
+}
+.rt4{
+  background-color: #8ECAAE;
+  width: 30%;
+  height: 8%;
+  margin-left: 22%;
+  position: relative;
+  margin-top: -23%;
+  transform: rotate(-45deg);
+} */
